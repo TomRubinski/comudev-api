@@ -1,4 +1,5 @@
 const express = require('express');
+const port = parseInt(process.env.PORT || '3000', 10);
 const server = express();
 const html = require('./src/data/html.json');
 const css = require('./src/data/css.json');
@@ -22,6 +23,6 @@ server.get('/javascript', (req, res) => {
     })
 })
 
-server.listen(3000,() => {
+server.listen(port,() => {
     console.log('Servidor está funcionando!')
 });
