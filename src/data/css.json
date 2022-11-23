@@ -1,0 +1,92 @@
+[
+    {
+
+        "id": "1",
+        "name": "Comentário",
+        "tag": "/* */",
+        "description": "Defina seu comentário entre a tag.",
+        "support": "https://www.w3schools.com/css/css_comments.asp"
+
+    },
+
+    {
+
+        "id": "2",
+        "name": "Cor do texto",
+        "tag": "{color:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina qual cor após color:",
+        "support": "https://www.w3schools.com/css/css_colors.asp"
+
+    },
+
+    {
+
+        "id": "3",
+        "name": "Plano de Fundo",
+        "tag": "{background-:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina o tipo de background após -, e o valor após :",
+        "support": "https://www.w3schools.com/css/css_background.asp"
+
+    },
+
+    {
+
+        "id": "4",
+        "name": "Borda",
+        "tag": "{border-style:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina o tipo da borda após border-style:",
+        "support": "https://www.w3schools.com/css/css_border.asp"
+
+    },
+
+    {
+
+        "id": "4",
+        "name": "Borda",
+        "tag": "{border-style:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina o tipo da borda após border-style:",
+        "support": "https://www.w3schools.com/css/css_border.asp"
+
+    },
+
+    {
+
+        "id": "5",
+        "name": "Margem",
+        "tag": "{margin:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina a direção e espaçamento da margem.",
+        "support": "https://www.w3schools.com/css/css_margin.asp"
+
+    },
+
+    {
+
+        "id": "6",
+        "name": "Preenchimento",
+        "tag": "{padding:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina a direção e espaçamento do preenchimento.",
+        "support": "https://www.w3schools.com/css/css_padding.asp"
+
+    },
+
+    {
+
+        "id": "6",
+        "name": "Altura",
+        "tag": "{height:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina a altura do elemento após :.",
+        "support": "https://www.w3schools.com/css/css_dimension.asp"
+
+    },
+
+    {
+
+        "id": "7",
+        "name": "Largura",
+        "tag": "{width:}",
+        "description": "Defina qual elemento html quer estilizar antes da abertura de chaves. Defina a largura do elemento após :.",
+        "support": "https://www.w3schools.com/css/css_dimension.asp"
+
+    }
+
+]

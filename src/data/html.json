@@ -1,0 +1,177 @@
+[
+    {
+        "id": "1",
+        "name": "Comentário",
+        "tag": "<!-- -->",
+        "description": "Comentários são sempre bem vindos no desenvolvimento webr. Ele ajuda a você explicar o seu código, digite o seu entre a tag.",
+        "support": "https://www.w3schools.com/TAgs/tag_comment.asp"
+    },
+
+    {
+        "id": "2",
+        "name": "Tipo de documento",
+        "tag": "<!DOCTYPE html>",
+        "description": "Essa tag indica ao navegador que tipo de documento ele deve esperar, é a primeira tag do seu arquivo html.",
+        "support": "https://www.w3schools.com/TAgs/tag_doctype.asp"
+    },
+
+    {
+        "id": "3",
+        "name": "Link",
+        "tag": "<a href=> </a>",
+        "description": "Essa tag serve para você fazer ligação do seu arquivo com outras páginas. Insira o link entre aspas após o parâmetro href= ",
+        "support": "https://www.w3schools.com/TAgs/tag_a.asp"
+    },
+
+    {
+        "id": "4",
+        "name": "Audio",
+        "tag": "<audio controls src=> </audio>",
+        "description": "Um reprodutor de audio. Insira o caminho do audio entre aspas após src=",
+        "support": "https://www.w3schools.com/TAgs/tag_audio.asp"
+    },
+
+    {
+        "id": "5",
+        "name": "Corpo",
+        "tag": "<body> </body>",
+        "description": "Representa o que será exibido na tela, escreva seus textos parágrafos, etc, dentro dela.",
+        "support": "https://www.w3schools.com/html/html_basic.asp"
+    },
+
+    {
+        "id": "6",
+        "name": "Quebra de linha",
+        "tag": "<br/>",
+        "description": "Force uma quebra de linha.",
+        "support": "https://www.w3schools.com/TAgs/tag_br.asp"
+    },
+
+    {
+        "id": "7",
+        "name": "Botão",
+        "tag": "<Button type='button'><Button/>",
+        "description": "Crie um botão. Você pode futuramente usá-lo para disparar um evento ao clicá-lo, como por exemplo enviar um formulário.",
+        "support": "https://www.w3schools.com/TAgs/tag_button.asp"
+    },
+
+    {
+        "id": "8",
+        "name": "Divisória",
+        "tag": "<div><div/>",
+        "description": "Simboliza um bloco especial da sua página que poderá receber as estilizações.",
+        "support": "https://www.w3schools.com/TAgs/tag_div.asp"
+    },
+
+    {
+        "id": "9",
+        "name": "Rodapé",
+        "tag": "<footer><footer/>",
+        "description": "Simboliza o bloco de conteúdo ao rodapé da página.",
+        "support": "https://www.w3schools.com/TAgs/tag_footer.asp"
+    },
+
+    {
+        "id": "10",
+        "name": "Formulário",
+        "tag": "<form><form/>",
+        "description": "Crie um formulário a partir dessa tag. Defina o parâmetro action= para determinar para onde o form será enviado e method= para como será enviado.",
+        "support": "https://www.w3schools.com/TAgs/tag_form.asp"
+    },
+
+    {
+        "id": "11",
+        "name": "Título",
+        "tag": "<h1><h1/>",
+        "description": "Fonte padrão para títulos. Defina um número entre 1 e 6 para manipular seu tamanho.",
+        "support": "https://www.w3schools.com/TAgs/tag_hn.asp"
+    },
+
+    {
+        "id": "12",
+        "name": "Cabeçalho",
+        "tag": "<head><head/>",
+        "description": "Aqui vai o conteúdo do cabeçalho da sua página, como por exemplo o título dele.",
+        "support": "https://www.w3schools.com/TAgs/tag_head.asp"
+    },
+
+    {
+        "id": "13",
+        "name": "HTML",
+        "tag": "<html><html/>",
+        "description": "Aqui vai todo o conteúdo incluindo o cabeçalho e o corpo da página.",
+        "support": "https://www.w3schools.com/TAgs/tag_html.asp"
+    },
+
+    {
+        "id": "14",
+        "name": "Imagem",
+        "tag": "<img src= ><img/>",
+        "description": "Insira uma imagem na sua página. Defina qual entre aspas no aributo src=",
+        "support": "https://www.w3schools.com/TAgs/tag_img.asp"
+    },
+
+    {
+        "id": "15",
+        "name": "Entrada",
+        "tag": "<input type= ><input/>",
+        "description": "Insira um campo de entrada para o usuário da página. Entre aspas defina o tipo de entrada, como por exemplo: texto.",
+        "support": "https://www.w3schools.com/TAgs/tag_input.asp"
+    },
+
+    {
+        "id": "16",
+        "name": "Campo",
+        "tag": "<label><label/>",
+        "description": "Defina um campo para texto.",
+        "support": "https://www.w3schools.com/TAgs/tag_label.asp"
+    },
+
+    {
+        "id": "17",
+        "name": "Metadados",
+        "tag": "<meta>",
+        "description": "Defina metadados importantes no cabeçalho que influenciarão na visibilidade da sua página.",
+        "support": "https://www.w3schools.com/TAgs/tag_meta.asp"
+    },
+
+    {
+        "id": "17",
+        "name": "Parágrafo",
+        "tag": "<p> </p>",
+        "description": "Escreva um parágrafo.",
+        "support": "https://www.w3schools.com/TAgs/tag_p.asp"
+    },
+
+    {
+        "id": "18",
+        "name": "Código",
+        "tag": "<script> </script>",
+        "description": "Campo para programação. Escreva seu JavaScript dentro dele.",
+        "support": "https://www.w3schools.com/TAgs/tag_script.asp"
+    },
+
+    {
+        "id": "19",
+        "name": "Seleção",
+        "tag": "<select> </select>",
+        "description": "Campo de seleção. Defina um campo de seleção para o usuário e logo após definas as opções com <option></option>",
+        "support": "https://www.w3schools.com/TAgs/tag_select.asp"
+    },
+
+    {
+        "id": "20",
+        "name": "Estilização",
+        "tag": "<style> </style>",
+        "description": "Campo de estilização. Defina dentro dele a maquiagem da sua página com CSS.",
+        "support": "https://www.w3schools.com/TAgs/tag_style.asp"
+    },
+
+    {
+        "id": "21",
+        "name": "Campo de entrada de texto",
+        "tag": "<textarea> </textarea>",
+        "description": "Campo de entrada de texto.",
+        "support": "https://www.w3schools.com/TAgs/tag_textarea.asp"
+    }
+]

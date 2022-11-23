@@ -1,0 +1,4 @@
+#Arquivos e dependências a serem ignoradas pelo Github
+
+#Dependência do node
+/node_modules

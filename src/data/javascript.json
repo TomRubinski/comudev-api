@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name":"Adicionar ao HTML",
+        "tag":".InnerHTML",
+        "description":"Ao selecionar um elemento pelo seu javascript, pode alterar seu valor adicionando .InnerHTML = novo valor",
+        "support":"https://www.w3schools.com/js/js_output.asp"
+    },
+
+    {
+        "id": "2",
+        "name":"Variável",
+        "tag":"var",
+        "description":"Dê nome a sua variável e após atribua um valor com =",
+        "support":"w3schools.com/js/js_variables.asp"
+    },
+
+    {
+        "id": "3",
+        "name":"Let",
+        "tag":"let",
+        "description":"Dê nome a sua variável e após atribua um valor com =",
+        "support":"w3schools.com/js/js_variables.asp"
+    },
+
+    {
+        "id": "4",
+        "name":"Constante",
+        "tag":"const",
+        "description":"Dê nome a sua constante e depois atribua um valor após = . Constantes não mudam de valor.",
+        "support":"w3schools.com/js/js_variables.asp"
+    },
+
+    {
+        "id": "5",
+        "name":"Condição",
+        "tag":"if(x){}else{}",
+        "description":"Substitua x por uma condição entre cheves insira um evento para ocorrer se a condição for verdadeira. Entre chaves após else defina um evento caso a condição for falsa.",
+        "support":"https://www.w3schools.com/js/js_if_else.asp"
+    },
+
+    {
+        "id": "6",
+        "name":"Troque",
+        "tag":"switch(x){case y: }",
+        "description":"Substitua x por um parâmetro base, substitua y por uma situação e após : defina o que deverá acontecer nessa situação. Você pode determinar vários casos.",
+        "support":"https://www.w3schools.com/js/js_switch.asp"
+    },
+
+    {
+        "id": "7",
+        "name":"Para",
+        "tag":"for (let i = x; i < x; i++) {}",
+        "description":"Instrumento de repetição, defina um parâmetro inicial ao invés de x, a instrução entre chaves",
+        "support":"https://www.w3schools.com/js/js_loop_for.asp"
+    },
+
+    {
+        "id": "8",
+        "name":"Enquanto",
+        "tag":"while(x){}",
+        "description":"Substitua x por um parâmetro, enquanto ele for verdadeiro a instrução entre chaves será realizada.",
+        "support":"https://www.w3schools.com/js/js_loop_while.asp"
+    },
+
+    {
+        "id": "9",
+        "name":"Função",
+        "tag":"function(parâmetros){}",
+        "description":"Uma função é uma rotina de instruções. Insira os parâmetros iniciais e escreva a rotina entre chaves.",
+        "support":"https://www.w3schools.com/js/js_functions.asp"
+    },
+
+    {
+        "id": "10",
+        "name":"Tratativa de Erro",
+        "tag":"try{}catch(e){}",
+        "description":"Erros podem ser esperados e depois tratados. O código em chaves dentro de Try vai rodar, o erro será capturado pelo catch e tratado nas chaves a seguir, como você definir.",
+        "support":"https://www.w3schools.com/js/js_errors.asp"
+    },
+
+    {
+        "id": "11",
+        "name":"Classe",
+        "tag":"class{}",
+        "description":"Classes servem para formar objetos. Uma classe tem atributos e métodos. Crie os atributos dentro da classe. Depois você vai poder instanciar essa classe como um novo objeto.",
+        "support":"https://www.w3schools.com/js/js_output.asp"
+    },
+
+    {
+        "id": "12",
+        "name":"Árvore DOM",
+        "tag":"document",
+        "description":"O HTML é encapsulado. Ou seja, todas as tags estão dentro de outras até entrarem em <html>. Essa árvore pode ser acessada pelo JavaScript através do objeto DOM.",
+        "support":"https://www.w3schools.com/jsref/dom_obj_document.asp"
+    }
+
+]

@@ -1,0 +1,14 @@
+{
+  "name": "apicd",
+  "version": "1.0.0",
+  "description": "Application Programming Interface para elementos da programação front-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Rubinski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
